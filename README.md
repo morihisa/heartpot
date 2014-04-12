@@ -1,4 +1,4 @@
-heartpot
+Heartpot
 ========
 
 This Python script is a tiny honeypot for Heartbleed(CVE-2014-0160)
